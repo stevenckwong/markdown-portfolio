@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+Dis is a link
+[My Github Profile](https://github.com/stevenckwong)
